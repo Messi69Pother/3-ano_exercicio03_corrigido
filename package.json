@@ -1,0 +1,24 @@
+{
+  "name": "3-ano_exercicio03_corrigido",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "grunt":"grunt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Messi69Pother/3-ano_exercicio03_corrigido.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Messi69Pother/3-ano_exercicio03_corrigido/issues"
+  },
+  "homepage": "https://github.com/Messi69Pother/3-ano_exercicio03_corrigido#readme",
+  "devDependencies": {
+    "grunt": "^1.5.3"
+  }
+}
